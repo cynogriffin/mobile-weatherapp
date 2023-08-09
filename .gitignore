@@ -35,5 +35,6 @@ yarn-error.*
 *.tsbuildinfo
 
 .eslintrc.js
+prettier.js
 
-%ProgramData%
+%ProgramData%/
