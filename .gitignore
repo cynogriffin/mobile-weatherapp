@@ -38,3 +38,5 @@ yarn-error.*
 prettierrc.js
 
 %ProgramData%/
+
+src/demonstration/
