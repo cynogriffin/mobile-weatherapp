@@ -40,3 +40,5 @@ prettierrc.js
 %ProgramData%/
 
 src/demonstration/
+
+.env
